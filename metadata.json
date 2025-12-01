@@ -1,0 +1,5 @@
+{
+  "name": "PixelPro - Web3 Image Tools",
+  "description": "A pure frontend, privacy-focused image processing suite featuring a dark Web3 aesthetic. Includes compression, cropping, format conversion, and watermarking.",
+  "requestFramePermissions": []
+}
